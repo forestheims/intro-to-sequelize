@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Use [this template](https://github.com/alchemycodelab/backend-yawp-sequelize) to get started.
+ Use [this template](https://github.com/alchemycodelab/backend-yawp-sequelize) to get started.
 
 ### Learning Objectives
 
