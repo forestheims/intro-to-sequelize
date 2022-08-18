@@ -19,7 +19,7 @@ describe('genre routes', () => {
         },
       ]);
     } catch (e) {
-      console.log(e);
+      throw new Error(e);
     }
   });
   afterAll(async () => {
